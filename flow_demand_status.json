@@ -1,0 +1,12 @@
+{
+  "level": 0,
+  "until": 0,
+  "updated_at": 1792246000000,
+  "accounts": {
+    "Cuenta 1": { "level": 0, "until": 0 },
+    "Cuenta 2": { "level": 0, "until": 0 },
+    "Cuenta 3": { "level": 0, "until": 0 },
+    "Cuenta 4": { "level": 0, "until": 0 },
+    "Cuenta 5": { "level": 0, "until": 0 }
+  }
+}
